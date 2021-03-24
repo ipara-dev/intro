@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ipara-tc
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning ReactJS, Angular, VueJs
+- 💞️ I’m looking to collaborate on on interesting projects
+- 📫 Reach me on Linkedin: https://www.linkedin.com/in/ionpara/
